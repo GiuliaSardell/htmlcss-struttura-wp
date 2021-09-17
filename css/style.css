@@ -10,7 +10,7 @@
   clear: both;
 }
 
-body{
+.container{
   margin: 0 auto;
   width: 80%;
 }
@@ -18,13 +18,12 @@ body{
 .panel{
   height: 60px;
   background-color: fuchsia;
-  margin: 20px 0;
 }
 
-.top-content{
+.jumbotron{
   height: 350px;
   background-color: goldenrod;
-  margin-bottom: 20px;
+  margin: 20px 0;
 }
 
 .content{
